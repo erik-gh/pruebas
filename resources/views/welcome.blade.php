@@ -23,6 +23,7 @@
     </head>
     <body class="antialiased">
     <h1>Laravel-Livewire</h1>
+    <livewire:counter/>
     @livewireScripts
     </body>
 </html>
